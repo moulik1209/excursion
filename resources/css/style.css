@@ -1,13 +1,29 @@
-.heading {
+body {
+  background-color: black;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
-h1 {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 50px;
-  color: blue;
-}
-.link {
+
+.cta {
   color: aquamarine;
   font-size: 16px;
 }
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+} 
