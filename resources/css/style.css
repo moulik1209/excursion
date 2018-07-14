@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+}
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: blue;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
